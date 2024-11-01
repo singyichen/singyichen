@@ -23,12 +23,9 @@
 
 **<h3 align="left"> 📑 GitHub Stats</h3>**
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ms314006&theme=react&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ms314006&theme=react&hide_border=false" alt="GitHub streak Card" />
-</p>
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms314006&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=singyichen&theme=react&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=singyichen&theme=react&hide_border=false" alt="GitHub streak Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singyichen&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
 **<h3 align="left"> 📌 Skills</h3>**
