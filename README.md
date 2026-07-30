@@ -2,6 +2,7 @@
 
 👩🏻‍💻 AI-Native Backend Engineer based in Kaohsiung, Taiwan. <br />
 🎓 Mathematics major turned software engineer — I like problems that take both a proof and production code. <br />
+🧑‍🎓 Part-time Master's student at NYCU DPS, doing NLP research at the [NYCU Natural Language Processing Lab](https://ainlp.tw/). <br />
 🤖 I build with AI coding agents at the core of my workflow — mainly [Claude Code](https://claude.com/product/claude-code) and [OpenAI Codex](https://openai.com/codex/). <br />
 🚀 Focused on backend architecture, cloud-native infrastructure, and developer workflows. <br />
 ✍️ Sharing my journey and learnings on [Medium](https://medium.com/@ms-mandy610425). <br />
