@@ -7,10 +7,20 @@
     </summary>
   </ul>
 </div>
-<h3 align="left">Backend Engineer</h3>
+<h3 align="left">AI-Native Backend Engineer</h3>
 <div align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Random Dev Quote"/>
 </div>
+
+**<h3 align="left"> 🤖 AI-Native Workflow</h3>**
+
+I build with AI at the core of my workflow — spec, code, review, and ship with AI coding agents.
+
+<p align="left">
+<a href="https://claude.com/product/claude-code" target="_blank"><img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" height="28" style="margin-right: 4px"></a>
+<a href="https://openai.com/codex/" target="_blank"><img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square" height="28" style="margin-right: 4px"></a>
+</p>
+
 <h3 align="left">🤝 Connect with me</h3>
 <p align="left">
 <a href="mailto:ms.mandy610425@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a>
@@ -20,13 +30,6 @@
 
 **<h3 align="left"> 🔭 Currently working on:</h3>**
 - [Trendlink](https://www.trendlink.com.tw/)
-
-**<h3 align="left"> 📑 GitHub Stats</h3>**
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=singyichen&theme=react&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=singyichen&theme=react&hide_border=false" alt="GitHub streak Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singyichen&rank_icon=github&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-</p>
 
 **<h3 align="left"> 📌 Skills</h3>**
 
